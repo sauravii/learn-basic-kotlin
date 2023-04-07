@@ -5,7 +5,7 @@ fun hitungTotal(name:String, vararg angka:Int): String {
         total += value
     }
 
-    // hasil outputnya tetep pake ini
+    // hasil outputnya tetep pake ini yaa
     return ("Helloo $name your result is" + " " +total)
 }
 
